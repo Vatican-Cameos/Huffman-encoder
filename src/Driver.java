@@ -24,7 +24,6 @@ public class Driver {
     }
     public static void main(String[] args) {
         //init();
-
         //System.out.println("Final root is " + root.frequency);
         System.out.println("Enter the string to be encoded");
         Scanner input = new Scanner(System.in);
