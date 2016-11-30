@@ -42,9 +42,6 @@ public class Driver {
             encodedString += charCodeMap.get((String.valueOf(plainString.charAt(i))));
         }
         System.out.println("Encoded String is " + encodedString);
-        /*for (Map.Entry entry : charCodeMap.entrySet()) {
-            System.out.println(entry.getKey() + ", " + entry.getValue());
-        }*/
     }
     private static void traverse(Node node,String code) {
 
