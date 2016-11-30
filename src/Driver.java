@@ -15,12 +15,6 @@ public class Driver {
         charFreqMap.add(2,new Node('o',1));
         charFreqMap.add(3,new Node('l',2));
 
-        /*charFreqMap.add(0,new Node('a',5));
-        charFreqMap.add(1,new Node('b',9));
-        charFreqMap.add(2,new Node('c',12));
-        charFreqMap.add(3,new Node('d',13));
-        charFreqMap.add(4,new Node('e',16));
-        charFreqMap.add(5,new Node('f',45));*/
     }
     public static void main(String[] args) {
         //init();
